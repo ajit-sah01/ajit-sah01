@@ -257,7 +257,7 @@ const developer = {
 
 <div align="center">
 
-> "Security is not a product, but a process." - Bruce Schneier
+> "Security is not a product, but a process." - Ajit Kumar
 
 **Made with ❤️ by Ajit Kumar**
 
