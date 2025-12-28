@@ -115,12 +115,12 @@ I'm a computer science student passionate about building secure, scalable web ap
 ## 📊 GitHub Activity
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=ajit-sah01&show_icons=true&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Stats" />
-  <img width="49%" src="https://streak-stats.demolab.com?user=ajit-sah01&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="GitHub Streak" />
+  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-sah01&theme=dark&background=0d1117&hide_border=true&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Stats" />
+
 </div>
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ajit-sah01&layout=compact&theme=tokyonight&hide_border=true&cache_seconds=1800" alt="Top Languages" />
+   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&theme=github-dark&bg_color=0d1117&hide_border=true&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&area_color=4ECDC4&custom_title=COMBAT%20ACTIVITY%20GRAPH" alt="Top Languages" />
 </div>
 
 
