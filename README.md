@@ -114,13 +114,43 @@ I'm a computer science student passionate about building secure, scalable web ap
 ---
 ## 📊 GitHub Activity
 
-<div align="center">
-  <img width="99%" src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-sah01&theme=dark&background=0d1117&hide_border=true&stroke=4ECDC4&ring=FF6B6B&fire=FF6B6B&currStreakLabel=4ECDC4" alt="GitHub Stats" />
 
+<div align="center">
+  <table>
+    <tr>
+      <td>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit-sah01&theme=radical&hide_border=true" alt="Profile Details"/>
+      </td>
+    </tr>
+  </table>
 </div>
 
 <div align="center">
-   <img width="99%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&theme=github-dark&bg_color=0d1117&hide_border=true&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&area_color=4ECDC4&custom_title=COMBAT%20ACTIVITY%20GRAPH" alt="Top Languages" />
+  <table>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Repos per Language"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Most Commit Language"/>
+      </td>
+    </tr>
+    <tr>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit-sah01&theme=radical&hide_border=true" alt="Stats"/>
+      </td>
+      <td width="50%">
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-sah01&theme=radical&hide_border=true&utcOffset=5.5" alt="Productive Time"/>
+      </td>
+    </tr>
+  </table>
+</div>
+
+<!-- ================== ACTIVITY GRAPH ================== -->
+
+<div align="center">
+  <h2>📈 Contribution Activity</h2>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=4ECDC4" alt="Contribution Graph"/>
 </div>
 
 
