@@ -150,9 +150,8 @@ I'm a computer science student passionate about building secure, scalable web ap
 
 <div align="center">
   <h2>📈 Contribution Activity</h2>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=0d1117&color=4ECDC4&line=FF6B6B&point=FFFFFF&area=true&hide_border=true&area_color=4ECDC4" alt="Contribution Graph"/>
+  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Contribution Graph"/>
 </div>
-
 
 
 ---
