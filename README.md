@@ -113,8 +113,6 @@ I'm a computer science student passionate about building secure, scalable web ap
 
 ---
 ## 📊 GitHub Activity
-
-
 <div align="center">
   <table>
     <tr>
@@ -137,22 +135,20 @@ I'm a computer science student passionate about building secure, scalable web ap
     </tr>
     <tr>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=ajit-sah01&theme=radical&hide_border=true" alt="Stats"/>
+        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-sah01&theme=radical&hide_border=true&utcOffset=5.5" alt="Productive Time"/>
       </td>
       <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-sah01&theme=radical&hide_border=true&utcOffset=5.5" alt="Productive Time"/>
+        <img src="https://leetcard.jacoblin.cool/ajit-sah01?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
       </td>
     </tr>
   </table>
 </div>
 
 <!-- ================== ACTIVITY GRAPH ================== -->
-
 <div align="center">
   <h2>📈 Contribution Activity</h2>
   <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Contribution Graph"/>
 </div>
-
 
 ---
 
