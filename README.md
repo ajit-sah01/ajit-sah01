@@ -1,16 +1,18 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AJIT%20KUMAR&fontSize=70&fontAlignY=35&animation=fadeIn&fontColor=fff" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=180&section=header&text=AJIT%20KUMAR&fontSize=64&fontAlignY=40&animation=fadeIn&fontColor=ffffff" />
 </div>
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=600&lines=Security-First+Full+Stack+Developer;MERN+Stack+Developer+(Projects);Cloud+Security+Learner;DevSecOps+Enthusiast" alt="Typing SVG" />
-</h1>
 
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&duration=3000&pause=1000&color=4ECDC4&center=true&vCenter=true&width=900&lines=MERN+Full-Stack+Developer;Data+Science+and+Data+Analytics+Learner;Cloud+Computing+and+Cloud+Security+Learner;Cybersecurity+and+Application+Security+Enthusiast" alt="Typing SVG" />
+</h1>
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=ajit-sah01&color=4ECDC4&style=flat-square&label=Profile+Views" alt="Profile Views" />
-  <img src="https://img.shields.io/badge/Student-BCA_Cloud_%26_Security-4ECDC4?style=flat-square" alt="Education" />
-  <img src="https://img.shields.io/badge/Focus-Security_First-FF6B6B?style=flat-square" alt="Focus" />
-  <img src="https://img.shields.io/badge/Status-Open_for_Internships-00C853?style=flat-square" alt="Status" />
+  <img src="https://komarev.com/ghpvc/?username=ajit-sah01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" alt="Profile Views" />
+  <img src="https://img.shields.io/badge/Education-BCA_Cloud_%26_Security-4ECDC4?style=for-the-badge" alt="Education" />
+  <img src="https://img.shields.io/badge/Experience-MERN_Stack_Projects-61DAFB?style=for-the-badge&logo=react&logoColor=white" alt="Experience" />
+  <img src="https://img.shields.io/badge/Learning-Cloud_%26_DevSecOps-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="Learning" />
+  <img src="https://img.shields.io/badge/Location-Katihar,_Bihar-9B59B6?style=for-the-badge" alt="Location" />
+  <img src="https://img.shields.io/badge/Availability-Remote_%26_Onsite-3498DB?style=for-the-badge" alt="Availability" />
 </p>
 
 ---
@@ -112,42 +114,56 @@ I'm a computer science student passionate about building secure, scalable web ap
 </div>
 
 ---
-## 📊 GitHub Activity
 <div align="center">
-  <table>
-    <tr>
-      <td>
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit-sah01&theme=radical&hide_border=true" alt="Profile Details"/>
-      </td>
-    </tr>
-  </table>
-</div>
 
-<div align="center">
-  <table>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Repos per Language"/>
-      </td>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Most Commit Language"/>
-      </td>
-    </tr>
-    <tr>
-      <td width="50%">
-        <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-sah01&theme=radical&hide_border=true&utcOffset=5.5" alt="Productive Time"/>
-      </td>
-      <td width="50%">
-        <img src="https://leetcard.jacoblin.cool/ajit-sah01?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats"/>
-      </td>
-    </tr>
-  </table>
-</div>
+## 📊 GitHub Activity & Statistics
 
-<!-- ================== ACTIVITY GRAPH ================== -->
-<div align="center">
-  <h2>📈 Contribution Activity</h2>
-  <img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Contribution Graph"/>
+<table>
+  <tr>
+    <td align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit-sah01&theme=radical&hide_border=true" alt="Profile Details" width="100%"/>
+    </td>
+  </tr>
+</table>
+
+### 💻 Coding Statistics
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Repos per Language" width="100%"/>
+      <br/>
+      <sub><b>📁 Repository Languages</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Most Commit Language" width="100%"/>
+      <br/>
+      <sub><b>⚡ Most Used Languages</b></sub>
+    </td>
+  </tr>
+</table>
+
+### ⏰ Development Insights
+
+<table>
+  <tr>
+    <td width="50%" align="center">
+      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-sah01&theme=radical&hide_border=true&utcOffset=5.5" alt="Productive Time" width="100%"/>
+      <br/>
+      <sub><b>🕐 Productive Hours</b></sub>
+    </td>
+    <td width="50%" align="center">
+      <img src="https://leetcard.jacoblin.cool/ajit-sah01?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="100%"/>
+      <br/>
+      <sub><b>🧩 LeetCode Progress</b></sub>
+    </td>
+  </tr>
+</table>
+
+### 📈 Contribution Activity
+
+<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Contribution Graph"/>
+
 </div>
 
 ---
@@ -407,7 +423,7 @@ I'm actively seeking **internship opportunities** where I can:
   <a href="mailto:ajitk23192@gmail.com">
     <img src="https://img.shields.io/badge/Email-ajitk23192@gmail.com-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
   </a>
-  <a href="https://linkedin.com/in/ajit-kumar" target="_blank">
+  <a href="https://www.linkedin.com/in/ajit-sah01/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://github.com/ajit-sah01" target="_blank">
