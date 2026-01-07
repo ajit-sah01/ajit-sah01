@@ -132,12 +132,12 @@ I'm a computer science student passionate about building secure, scalable web ap
   <tr>
     <td width="50%" align="center">
       <img
-        src="https://streak-stats.demolab.com?user=ajit-sah01&theme=tokyonight&background=0D1117&hide_border=true&stroke=F85D7F"
+        src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-sah01&theme=tokyonight"
         alt="Ajit Kumar GitHub Contribution Streak"
-        width="100%"
+        width="100%" 
       />
       <br/>
-      <sub><b>🔥 Contribution Streak</b></sub>
+      <sub><b>🔥 Contribution </b></sub>
     </td>
     <td width="50%" align="center">
       <img
