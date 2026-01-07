@@ -125,6 +125,7 @@ I'm a computer science student passionate about building secure, scalable web ap
     </td>
   </tr>
 </table>
+
 ### 💻 Coding Statistics
 
 <table>
