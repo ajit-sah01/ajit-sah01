@@ -125,23 +125,31 @@ I'm a computer science student passionate about building secure, scalable web ap
     </td>
   </tr>
 </table>
-
 ### 💻 Coding Statistics
 
 <table>
   <tr>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Repos per Language" width="100%"/>
+      <img
+        src="https://streak-stats.demolab.com?user=ajit-sah01&theme=tokyonight&background=0D1117&hide_border=true&stroke=F85D7F"
+        alt="Ajit Kumar GitHub Contribution Streak"
+        width="100%"
+      />
       <br/>
-      <sub><b>📁 Repository Languages</b></sub>
+      <sub><b>🔥 Contribution Streak</b></sub>
     </td>
     <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit-sah01&theme=radical&hide_border=true" alt="Most Commit Language" width="100%"/>
+      <img
+        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit-sah01&theme=tokyonight&hide_border=true"
+        alt="Ajit Kumar Most Used Programming Languages"
+        width="100%"
+      />
       <br/>
-      <sub><b>⚡ Most Used Languages</b></sub>
+      <sub><b>📊 Most Used Languages</b></sub>
     </td>
   </tr>
 </table>
+
 
 ### ⏰ Development Insights
 
