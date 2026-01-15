@@ -115,64 +115,22 @@ I'm a computer science student passionate about building secure, scalable web ap
 
 ---
 <div align="center">
+  
+## 📊 GitHub Activity & Statistics — Ajit Kumar (ajitdev01)
 
-## 📊 GitHub Activity & Statistics
+<table align="center" width="100%"> <tr> <td align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajitdev01&theme=radical&hide_border=true" alt="Ajit Kumar GitHub Profile Overview" width="100%" /> </td> </tr> </table>
 
-<table>
-  <tr>
-    <td align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ajit-sah01&theme=radical&hide_border=true" alt="Profile Details" width="100%"/>
-    </td>
-  </tr>
-</table>
+## 💻 Coding Statistics
 
-### 💻 Coding Statistics
+<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-readme-streak-stats.herokuapp.com/?user=ajitdev01&theme=tokyonight" alt="Ajit Kumar GitHub Contribution Streak" width="100%" /> <br/> <strong>🔥 Contribution Streak</strong> </td> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajitdev01&theme=tokyonight&hide_border=true" alt="Ajit Kumar Most Used Programming Languages" width="100%" /> <br/> <strong>📊 Most Used Languages</strong> </td> </tr> </table>
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img
-        src="https://github-readme-streak-stats.herokuapp.com/?user=ajit-sah01&theme=tokyonight"
-        alt="Ajit Kumar GitHub Contribution Streak"
-        width="100%" 
-      />
-      <br/>
-      <sub><b>🔥 Contribution </b></sub>
-    </td>
-    <td width="50%" align="center">
-      <img
-        src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ajit-sah01&theme=tokyonight&hide_border=true"
-        alt="Ajit Kumar Most Used Programming Languages"
-        width="100%"
-      />
-      <br/>
-      <sub><b>📊 Most Used Languages</b></sub>
-    </td>
-  </tr>
-</table>
+## ⏰ Development Insights
 
+<table align="center" width="100%"> <tr> <td width="50%" align="center"> <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajitdev01&theme=radical&hide_border=true&utcOffset=5.5" alt="Ajit Kumar Productive Coding Hours" width="100%" /> <br/> <strong>🕐 Productive Hours (IST)</strong> </td> <td width="50%" align="center"> <img src="https://leetcard.jacoblin.cool/ajit-sah01?theme=dark&font=Nunito&ext=heatmap" alt="Ajit Kumar LeetCode Statistics" width="100%" /> <br/> <strong>🧩 LeetCode Progress (ajit-sah01)</strong> </td> </tr> </table>
 
-### ⏰ Development Insights
+## 📈 Contribution Activity Graph
 
-<table>
-  <tr>
-    <td width="50%" align="center">
-      <img src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=ajit-sah01&theme=radical&hide_border=true&utcOffset=5.5" alt="Productive Time" width="100%"/>
-      <br/>
-      <sub><b>🕐 Productive Hours</b></sub>
-    </td>
-    <td width="50%" align="center">
-      <img src="https://leetcard.jacoblin.cool/ajit-sah01?theme=dark&font=Nunito&ext=heatmap" alt="LeetCode Stats" width="100%"/>
-      <br/>
-      <sub><b>🧩 LeetCode Progress</b></sub>
-    </td>
-  </tr>
-</table>
-
-### 📈 Contribution Activity
-
-<img width="100%" src="https://github-readme-activity-graph.vercel.app/graph?username=ajit-sah01&custom_title=Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Contribution Graph"/>
-
+<p align="center"> <img src="https://github-readme-activity-graph.vercel.app/graph?username=ajitdev01&custom_title=Ajit%20Kumar%20Contribution%20Graph&bg_color=000000&color=39ff14&line=00ff41&point=39ff14&area=true&hide_border=true&area_color=00ff41" alt="Ajit Kumar GitHub Contribution Graph" width="100%" /> </p>
 </div>
 
 ---
