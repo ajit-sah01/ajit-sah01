@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AJIT%20DEV&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20%7C%20DevOps%20%7C%20DevSecOps%20%7C%20Cloud%20Security&descSize=18&descAlignY=65&descColor=4ECDC4" />
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,12,20&height=200&section=header&text=AJIT%20DEV&fontSize=72&fontAlignY=42&animation=fadeIn&fontColor=ffffff&desc=Full%20Stack%20%7C%20DevOps%20%7C%20Cloud%20Security&descSize=18&descAlignY=65&descColor=4ECDC4" />
 </div>
 
 <h1 align="center">
@@ -9,7 +9,7 @@
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=ajitdev01&color=4ECDC4&style=for-the-badge&label=PROFILE+VIEWS" />
   <img src="https://img.shields.io/badge/BCA-Cloud_%26_Security_2025--2027-4ECDC4?style=for-the-badge" />
-  <img src="https://img.shields.io/badge/LeetCode-400%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
+  <img src="https://img.shields.io/badge/LeetCode-500%2B_Problems-FFA116?style=for-the-badge&logo=leetcode&logoColor=black" />
   <img src="https://img.shields.io/badge/Location-Katihar,_Bihar_🇮🇳-9B59B6?style=for-the-badge" />
 </p>
 
@@ -24,7 +24,7 @@ const ajitDev = {
   location    : "Katihar, Bihar, India 🇮🇳",
   education   : "BCA — Cloud & Security (2025–2027)",
   portfolio   : "https://ajitdev.com",
-  institute   : "Brainzima Innovation Institute, Katihar", "https://brainzima.com",
+  institute   : "Brainzima Innovation Institute, Katihar — https://brainzima.com",
 
   currentFocus: [
     "Production-grade Full Stack Engineering (MERN + Next.js)",
@@ -35,7 +35,7 @@ const ajitDev = {
   ],
 
   philosophy  : "Build Fast. Build Secure. Build Scalable.",
-  goal2028    : "SDE-1 | DevOps Engineer | DevSecOps | Cloud Engineer",
+  goal2028    : "SDE-1 | Full Stack Developer | DevOps Engineer | Cloud Engineer",
   contact     : "ajitk23192@gmail.com",
 };
 ```
@@ -51,7 +51,7 @@ const ajitDev = {
 <td width="50%" valign="top">
 
 ### ✅ Software Engineering Core
-- Data Structures & Algorithms (400+ LeetCode)
+- Data Structures & Algorithms (500+ LeetCode)
 - Object-Oriented Programming (OOP)
 - Low Level Design (LLD) & High Level Design (HLD)
 - System Design Fundamentals
@@ -63,7 +63,7 @@ const ajitDev = {
 <td width="50%" valign="top">
 
 ### ✅ Full Stack Development
-- **Frontend:** HTML5, CSS3, JS, TS, React.js, Next.js, Tailwind, MUI
+- **Frontend:** HTML5, CSS3, JS, TS, React.js, Next.js, Tailwind
 - **Backend:** Node.js, Express.js, PHP, Laravel, REST APIs
 - **Auth:** JWT, OAuth2, RBAC, Secure Sessions
 - **Databases:** MongoDB, MySQL, PostgreSQL, Redis
@@ -94,24 +94,6 @@ const ajitDev = {
 </td>
 </tr>
 </table>
-
----
-
-## 🛡️ DevSecOps & Security Stack
-
-<div align="center">
-
-| Security Domain | Skills & Tools |
-|:----------------|:---------------|
-| **Secure Coding** | OWASP Top 10, Input Validation, XSS/SQLi Prevention, Secure Headers, CSP |
-| **Authentication** | JWT, OAuth2, RBAC, MFA Concepts, Session Security |
-| **API Security** | Rate Limiting, CORS, Request Validation, Error Sanitization |
-| **Container Security** | Docker Hardening, Image Scanning, Kubernetes RBAC |
-| **Secret Management** | Env Variables, Vault Concepts, GitHub Secrets |
-| **SAST / SCA Tools** | SonarQube, Snyk, Trivy, OWASP ZAP |
-| **Threat Modeling** | Security Requirements at Planning Phase, Attack Surface Analysis |
-
-</div>
 
 ---
 
@@ -303,6 +285,180 @@ const ajitDev = {
 
 ---
 
+## 🌐 Live Projects & Portfolio
+
+Beyond personal repositories, my learning connects to real digital products through training and project exposure across the Brainzima ecosystem. These are **live, working platforms** — not just code samples.
+
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🎓 CollegeSure
+**Education Guidance Platform**
+
+[🌐 Visit Live Platform](https://collegesure.brainzima.com/)
+
+An education-focused digital platform built to help students navigate college and course decisions through transparent, personalized guidance.
+
+- Honest admissions guidance
+- Personalized college & course recommendations
+- Eligibility, location & fee considerations
+- Personalized counselling & admission assistance
+- End-to-end student support
+
+**Core Principles:** Student First · Transparency · Personalization · Quality Guidance
+
+**1,000+ Courses · 500+ Colleges · 15,000+ Students Guided · 24/7 Support**
+
+*A digital platform of Brainzima Innovation Institute, since 2020.*
+
+</td>
+<td width="50%" valign="top">
+
+### 💻 Rexvel Web Solutions
+**Digital Solutions & Web Development**
+
+[🌐 Visit Website](https://rexvel.com/)
+
+An organization offering custom web applications, enterprise software solutions, and digital transformation services — my source of real-world project exposure.
+
+- Website development lifecycle
+- Project structuring & requirement understanding
+- Design-to-development implementation
+- Git/version-control workflows & debugging
+- Responsive development & performance optimization
+- Production/deployment concepts
+
+**100+ Web Solutions · 24/7 Enterprise Support**
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 🏫 Brainzima Innovation Institute
+**Technology Education & Skill Hub**
+
+[🌐 Visit Website](https://www.brainzima.com/)
+
+An ISO-certified computer and coding institute providing technology education, industry-relevant technical skills, and student skill development.
+
+- Technology & IT education
+- Programming and web development training
+- Practical, industry-oriented workflows
+
+**1,200+ Students Trained · 11+ Centers**
+
+</td>
+<td width="50%" valign="top">
+
+### 🤖 Bifindr.com
+**Digital Tools & AI Discovery**
+
+[🌐 Explore Platform](https://bifindr.com/)
+
+A curated digital platform for discovering AI software, productivity tools, and smart online utilities.
+
+- Digital tools discovery
+- AI software discovery
+- Productivity & utility curation
+
+**500+ Tools Indexed · Global Active Discovery**
+
+</td>
+
+</tr>
+<tr>
+
+<td width="50%" valign="top">
+
+### 📝 Trybook.in
+**Exam Preparation & Testing Technology**
+
+[🌐 Visit Platform](https://trybook.in/)
+
+An online testing platform supporting competitive exam preparation through mock tests and practice assessments.
+
+- Competitive exam preparation
+- Mock tests & student practice assessments
+- Online testing technology
+
+**250+ Mock Assessments · Statewide Aspirant Reach**
+
+</td>
+<td width="50%" valign="top">
+
+### 🌐 AJIT DEV
+**Developer Portfolio**
+
+[🌐 Visit Portfolio](https://ajitdev.com/)
+
+My personal developer authority site — where full-stack, cloud, and security-focused projects, along with my technical learning journey, are showcased.
+
+- Full Stack Development projects
+- Cloud & DevOps experiments
+- Security-focused engineering
+- Ongoing technical learning log
+
+</td>
+
+</tr>
+</table>
+
+---
+
+## 🌍 Real-World Development Exposure
+
+Working alongside these platforms and training environments has given me exposure to the broader software/product lifecycle — not just isolated coding exercises:
+
+```
+Requirements
+     ↓
+Planning
+     ↓
+Development
+     ↓
+Testing
+     ↓
+Optimization
+     ↓
+Deployment
+     ↓
+Maintenance
+```
+
+This exposure includes:
+
+- Real website development, not just tutorial projects
+- Client-oriented requirement understanding
+- Responsive UI implementation
+- Backend/API integration
+- Debugging & issue resolution
+- Performance optimization
+- Git/version-control workflows & code review concepts
+- Deployment and production-oriented thinking
+
+---
+
+## 🧩 Brainzima Ecosystem
+
+My practical exposure comes from interacting with a broader education + technology + digital product ecosystem:
+
+| Initiative | Focus |
+|:-----------|:------|
+| **Brainzima Innovation Institute** | Technology Education |
+| **Rexvel Web Solutions** | Digital Solutions & Web Development |
+| **CollegeSure** | Education & Admissions Guidance |
+| **Bifindr.com** | AI & Digital Tools Discovery |
+| **Trybook.in** | Exam Preparation & Testing |
+
+> **Note:** These reflect training, project exposure, and ecosystem involvement — not ownership, founder status, or full-time employment.
+
+---
+
 ## 📊 GitHub Statistics
 
 <div align="center">
@@ -398,45 +554,144 @@ const ajitDev = {
 
 ---
 
-## 🎓 Education & Institute
-
 <table>
 <tr>
+
 <td width="50%" valign="top">
 
-**🎓 Bachelor of Computer Applications**
-Specialization: Cloud & Security
+**🎓 Bachelor of Computer Applications (BCA)**
+
+**Specialization:** Cloud & Security
+
 **Duration:** 2025 – 2027
+
 **Status:** 🟢 Currently Enrolled
 
-Areas of Study:
-- Cloud Computing & Security
-- Software Engineering
-- Data Structures & Algorithms
-- Database Management Systems
-- Network Security & Cryptography
-- Operating Systems (Linux)
+### 📚 Areas of Study
+
+* ☁️ Cloud Computing & Cloud Security
+* 🔐 Network Security & Cryptography
+* 💻 Data Structures & Algorithms
+* ⚙️ Software Engineering
+* 🗄️ Database Management Systems
+* 🐧 Operating Systems & Linux Administration
+* 🌐 Computer Networks
+* 🌍 Web Technologies
+* 🛡️ Secure Computing & Threat Modeling
+* 📐 Relational Database Design & Normalization
 
 </td>
+
 <td width="50%" valign="top">
 
 **🏫 [Brainzima Innovation Institute](https://www.brainzima.com)**
+
 Anathalaya Road, Katihar, Bihar — 854105
 
-- 🏅 ISO Certified Computer & Coding Institute
-- 👨‍🎓 1200+ Students Trained
-- ⭐ 5.0/5 Google Rating
-- 💼 100% Placement Assistance
-- 🧑‍💻 Courses: Web Dev, Python, ADCA, DCA
-- 📞 +91-7979864304
+### 🏆 Institute Highlights
+
+* 🏅 ISO Certified Computer & Coding Institute
+* 👨‍🎓 1200+ Students Trained
+* ⭐ 5.0/5 Google Rating
+* 💼 100% Placement Assistance
+* 🧑‍💻 Web Development, Python, ADCA & DCA
+* 📞 +91-7979864304
+
+**🎯 Professional Training**
+
+Practical exposure to software development, programming fundamentals, web technologies, project implementation, and industry-oriented technical workflows.
 
 *Proud to be trained at Katihar's #1 tech institute.*
 
 </td>
+
 </tr>
 </table>
 
----
+<table>
+<tr>
+
+<td width="50%" valign="top">
+
+**🌐 [Rexvel](https://rexvel.com/)**
+
+**Real-World Project Exposure**
+
+### 🚀 Professional Development Workflow
+
+* 🔀 Version control & Git workflows
+* 🌿 Team branching models
+* 🔍 Pull request & code review concepts
+* 🤝 Collaborative development practices
+
+### 🛠️ Development Exposure
+
+* 📋 Client requirement understanding
+* 🎨 Design & implementation alignment
+* 🏗️ Project structuring & setup
+* ⚙️ Build & development workflows
+* 🐛 Debugging & issue resolution
+* 📱 Responsive & cross-browser development
+* ⚡ Performance optimization
+
+### 🚀 Production Exposure
+
+* 🌐 Production deployment concepts
+* 🖥️ Server environment awareness
+* 🔄 Continuous deployment concepts
+* 📦 Release & delivery workflows
+
+</td>
+
+<td width="50%" valign="top">
+
+**🎓 [Amity Online](https://amityonline.com/)**
+
+**Bachelor of Computer Applications (BCA)**
+
+**Specialization:** Cloud & Security
+
+**Duration:** 2025 – 2027
+
+**Status:** 🟢 Currently Enrolled
+
+### 📚 Academic Highlights
+
+* ☁️ Cloud & Security Specialization Coursework
+* 💻 Practical Software Development
+* 🛡️ Secure Computing & Threat Modeling
+* 🗄️ Relational Database Design & Normalization
+* 🐧 Linux OS Administration Fundamentals
+
+### 🔐 Key Areas of Study
+
+* ☁️ Cloud Computing
+* 🔐 Cloud Security
+* 💻 Data Structures & Algorithms
+* ⚙️ Software Engineering
+* 🗄️ Database Management Systems
+* 🐧 Operating Systems
+* 🌐 Computer Networks
+* 🔒 Network Security
+* 🔑 Cryptography
+* 🌍 Web Technologies
+
+</td>
+
+</tr>
+</table>
+
+## 📖 Experience Types at a Glance
+
+To make it easy for recruiters to tell what's what:
+
+| Label | What It Means |
+|:------|:---------------|
+| 🎓 **Academic** | BCA — Cloud & Security (Amity Online) |
+| 🧑‍💻 **Practical Training** | Brainzima Innovation Institute |
+| 🌐 **Real-World Project Exposure** | Rexvel, CollegeSure & related live platforms |
+| 🏗️ **Portfolio Projects** | My own development projects (production-grade builds above) |
+| 📚 **Current Learning** | AWS, Kubernetes, Terraform, DevSecOps, System Design |
 
 ## 💼 Open for Opportunities
 
@@ -447,8 +702,8 @@ I'm actively seeking roles where I can apply and grow as:
 | Role | Skills I Bring |
 |:-----|:---------------|
 | **SDE-1 / Software Engineer** | MERN, Next.js, TypeScript, System Design, DSA |
+| **Full Stack Developer** | MERN, LAMP, REST APIs, Responsive UI, Database Design |
 | **DevOps Engineer** | Docker, K8s, Terraform, CI/CD, AWS, Monitoring |
-| **DevSecOps Engineer** | OWASP, SonarQube, Trivy, Secure Pipelines |
 | **Cloud Engineer** | AWS (EC2, S3, IAM, VPC, ECS), IaC, Auto Scaling |
 
 **Format:** Remote · Hybrid · Onsite &nbsp;|&nbsp; **Type:** Full-time · Internship
@@ -481,7 +736,6 @@ I'm actively seeking roles where I can apply and grow as:
   </a>
 </p>
 
-
 ---
 
 <div align="center">
@@ -513,6 +767,6 @@ Code. Deploy. Secure. Scale. Repeat.
 
   ![Made with ❤️ in India](https://img.shields.io/badge/Made%20with%20❤️%20in-India-FF9933?style=flat-square)
   ![Maintained](https://img.shields.io/badge/Maintained-Yes-4ECDC4?style=flat-square)
-  ![Last Updated](https://img.shields.io/badge/Updated-June%202026-9B59B6?style=flat-square)
+  ![Last Updated](https://img.shields.io/badge/Updated-September%202026-9B59B6?style=flat-square)
 
 </div>
